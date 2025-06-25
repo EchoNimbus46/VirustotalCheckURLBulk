@@ -1,4 +1,4 @@
-# VirustotalCheckURLBulk
+# Virustotal Check URL Bulk
 Check url bulk
 
 How To:
