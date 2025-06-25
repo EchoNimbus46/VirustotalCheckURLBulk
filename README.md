@@ -1,0 +1,2 @@
+# VirustotalCheckURLBulk
+Check url bulk
